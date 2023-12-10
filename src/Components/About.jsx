@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a tech enthusiast who loves learning, exploring and working with cutting-edge technologies. I am working on Multi-Dimensional technology. Now, I am a Computer Science undergraduate student. But I am studying Computer Science for special purposes. That's why I have to focus on all domains of Computer Science like Software, Hardware and Network. I love to solve problems and troubleshoot any Hardware or Network related issues.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web Development",
+  "Computer Networking",
+  "DevOps",
+  "Cloud Computing",
+  "Embedded Systems",
+  "Operating Systems",
 ];
 
 /**
